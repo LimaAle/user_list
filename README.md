@@ -5,7 +5,7 @@ Este projeto é um aplicativo Flutter que usa uma API mockapi.io para listar usu
 Foram utilizados: 
   - GetX para gerenciamento de estado;
   - Dio para chamadas http;
-  - Freezed para auxiliar na criação entity;
+  - Freezed para auxiliar na criação das entities;
   - Mockito para testes.
 
 # Arquitetura do Projeto
